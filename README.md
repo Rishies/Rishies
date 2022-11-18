@@ -1,4 +1,11 @@
 ### Hi there 👋
+🔭 I’m currently working Malware Developement and Being A Full stack Web developer 
+
+🌱 I’m currently learning about javascript in web developement
+
+📫 How to reach me: My Discord is Rishie#4626
+
+⚡ Fun fact: I am 14 and Already Have 2 Certs in Pentesting :)
 
 <!--
 **Rishies/Rishies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
